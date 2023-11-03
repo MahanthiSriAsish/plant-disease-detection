@@ -1,0 +1,18 @@
+/* Navbar.css */
+@keyframes scrolled {
+  0% {
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+  header.scrolled {
+    animation: scrolled 0.95s ease forwards;
+    scroll-behavior:auto;
+  }
+  
+  

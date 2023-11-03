@@ -1,0 +1,85 @@
+/* Card.css
+
+/* ... (previous styles) */
+/* 
+.camera-container {
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+  }
+  
+  .capture-button {
+    background-color: #13e181;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 4px;
+  }
+  
+  .capture-button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  
+  .captured-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .card{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    justify-content: center;
+   
+    
+    align-items: center;
+    width: 299px;
+    background-color: rgb(189, 153, 183);
+  }
+  .card img{
+    
+   height: auto;
+   width: 100%;
+  }
+  .card-container{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  }
+  .card-button:hover{
+    background-color: #4CAF50;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+  .card-button{
+    padding: 15px 32px;
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     margin: 30px;
+    font-size: 16px;
+  }
+  @media(max-width: 800px) {
+   .card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+   .card {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+   }
+  } */ 
